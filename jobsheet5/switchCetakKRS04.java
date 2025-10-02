@@ -7,7 +7,7 @@ public class switchCetakKRS04 {
         Scanner sc = new Scanner(System.in);
 
     System.out.println("---Cetak KRS SIAKAD---");
-    System.out.println("masukkan semester saat ini:");3
+    System.out.println("masukkan semester saat ini:");
     int semester= sc.nextInt();
     switch (semester) {
     case 1:
